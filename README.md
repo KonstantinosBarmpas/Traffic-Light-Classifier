@@ -116,7 +116,7 @@ After the model is trained:
 
 1) I trained the simulation model for 40000 steps tried to make it work for both simulator but I did not succeed that. The reason seems to be the training data are completely different since we have on the one hand real data and on the other hand digitally created data. Generally, the model serve their purpose really well and trying to generalize them is beyond the scope of this project although completely possible.
 
-The final results are both trained for 20000steps. 10000 steps were enough for both models but I did an extra 10000steps just in case.
+The final results are both trained for 20000 steps. 10000 steps were enough for both models but I did an extra 10000 steps for better results.
 
 Simulation model is stored in sim_v4
 Carla model is stored in carla_v4

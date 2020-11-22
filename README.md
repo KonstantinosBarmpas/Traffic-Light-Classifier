@@ -2,6 +2,8 @@
 
 ## Traffic Light Classifier - My part for Udacity's "Self-Driving Car Engineer Nanodegree" Capstone project.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 [sim_result1]: ./imgs/sim_result1.png
